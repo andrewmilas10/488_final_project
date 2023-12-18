@@ -1,0 +1,14 @@
+Already have 7695 triples. Starting at idx 211698
+Iteration: 212009, Elapsed Time: 248.11 seconds, Entries: 7706
+Iteration: 213009, Elapsed Time: 569.41 seconds, Entries: 7742
+Iteration: 216009, Elapsed Time: 2050.66 seconds, Entries: 7865
+Iteration: 219009, Elapsed Time: 3638.51 seconds, Entries: 7984
+Iteration: 221009, Elapsed Time: 4318.27 seconds, Entries: 8054
+Iteration: 222009, Elapsed Time: 4767.52 seconds, Entries: 8093
+Iteration: 223009, Elapsed Time: 4970.80 seconds, Entries: 8129
+Iteration: 224009, Elapsed Time: 5410.58 seconds, Entries: 8164
+Iteration: 225009, Elapsed Time: 5628.30 seconds, Entries: 8205
+Traceback (most recent call last):
+  File "/mnt/raid0/andrewm/cpsc488/gen_trips_non_cited_neg.py", line 78, in <module>
+  File "/mnt/raid0/andrewm/cpsc488/gen_trips_non_cited_neg.py", line 62, in gen_non_cited_neg
+FileNotFoundError: [Errno 2] No such file or directory: 'saved_triplets/non_cited_neg_start_8_stride_10_hard_True.pkl'
