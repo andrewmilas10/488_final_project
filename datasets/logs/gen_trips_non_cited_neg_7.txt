@@ -1,14 +1,17 @@
-Already have 6245 triples. Starting at idx 172797
-Iteration: 174008, Elapsed Time: 459.56 seconds, Entries: 6289
-Iteration: 176008, Elapsed Time: 1028.68 seconds, Entries: 6359
-Iteration: 178008, Elapsed Time: 1661.74 seconds, Entries: 6430
-Iteration: 179008, Elapsed Time: 2147.68 seconds, Entries: 6469
-Iteration: 180008, Elapsed Time: 2585.59 seconds, Entries: 6502
-Iteration: 181008, Elapsed Time: 3231.52 seconds, Entries: 6540
-Iteration: 182008, Elapsed Time: 3573.39 seconds, Entries: 6581
-Iteration: 185008, Elapsed Time: 4568.04 seconds, Entries: 6685
-Iteration: 187008, Elapsed Time: 5408.95 seconds, Entries: 6755
-Traceback (most recent call last):
-  File "/mnt/raid0/andrewm/cpsc488/gen_trips_non_cited_neg.py", line 78, in <module>
-  File "/mnt/raid0/andrewm/cpsc488/gen_trips_non_cited_neg.py", line 62, in gen_non_cited_neg
-FileNotFoundError: [Errno 2] No such file or directory: 'saved_triplets/non_cited_neg_start_7_stride_10_hard_True.pkl'
+Already have 6820 triples. Starting at idx 188677
+Iteration: 190008, Elapsed Time: 758.10 seconds, Entries: 6878
+Iteration: 192008, Elapsed Time: 1780.16 seconds, Entries: 6957
+Iteration: 193008, Elapsed Time: 2259.73 seconds, Entries: 6995
+Iteration: 195008, Elapsed Time: 3454.58 seconds, Entries: 7068
+Iteration: 196008, Elapsed Time: 4242.66 seconds, Entries: 7106
+Iteration: 198008, Elapsed Time: 5274.32 seconds, Entries: 7180
+Iteration: 199008, Elapsed Time: 5746.54 seconds, Entries: 7220
+Iteration: 201008, Elapsed Time: 6721.61 seconds, Entries: 7290
+Iteration: 203008, Elapsed Time: 8333.41 seconds, Entries: 7373
+Iteration: 207008, Elapsed Time: 10052.62 seconds, Entries: 7509
+Iteration: 209008, Elapsed Time: 10819.24 seconds, Entries: 7579
+Iteration: 210008, Elapsed Time: 11162.88 seconds, Entries: 7626
+Iteration: 211008, Elapsed Time: 11642.96 seconds, Entries: 7663
+Iteration: 212008, Elapsed Time: 12239.97 seconds, Entries: 7705
+Iteration: 214008, Elapsed Time: 12919.07 seconds, Entries: 7770
+Iteration: 215008, Elapsed Time: 13282.43 seconds, Entries: 7804

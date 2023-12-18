@@ -1,13 +1,15 @@
-Already have 8511 triples. Starting at idx 214622
-Iteration: 215003, Elapsed Time: 83.32 seconds, Entries: 8525
-Iteration: 217003, Elapsed Time: 937.45 seconds, Entries: 8593
-Iteration: 218003, Elapsed Time: 1581.55 seconds, Entries: 8642
-Iteration: 219003, Elapsed Time: 1931.16 seconds, Entries: 8684
-Iteration: 223003, Elapsed Time: 3555.26 seconds, Entries: 8827
-Iteration: 226003, Elapsed Time: 4934.54 seconds, Entries: 8940
-Iteration: 228003, Elapsed Time: 5838.79 seconds, Entries: 9009
-Iteration: 229003, Elapsed Time: 5966.20 seconds, Entries: 9049
-Traceback (most recent call last):
-  File "/mnt/raid0/andrewm/cpsc488/gen_trips_non_cited_neg.py", line 78, in <module>
-  File "/mnt/raid0/andrewm/cpsc488/gen_trips_non_cited_neg.py", line 62, in gen_non_cited_neg
-FileNotFoundError: [Errno 2] No such file or directory: 'saved_triplets/non_cited_neg_start_2_stride_10_hard_False.pkl'
+Already have 9057 triples. Starting at idx 229162
+Iteration: 230003, Elapsed Time: 863.20 seconds, Entries: 9088
+Iteration: 231003, Elapsed Time: 1129.04 seconds, Entries: 9120
+Iteration: 232003, Elapsed Time: 1463.24 seconds, Entries: 9159
+Iteration: 236003, Elapsed Time: 3908.02 seconds, Entries: 9326
+Iteration: 239003, Elapsed Time: 5233.47 seconds, Entries: 9442
+Iteration: 240003, Elapsed Time: 6161.84 seconds, Entries: 9485
+Iteration: 241003, Elapsed Time: 7110.71 seconds, Entries: 9529
+Iteration: 243003, Elapsed Time: 8660.11 seconds, Entries: 9605
+Iteration: 245003, Elapsed Time: 9530.67 seconds, Entries: 9679
+Iteration: 247003, Elapsed Time: 10217.16 seconds, Entries: 9762
+Iteration: 249003, Elapsed Time: 11013.49 seconds, Entries: 9843
+Iteration: 255003, Elapsed Time: 13153.10 seconds, Entries: 10071
+Iteration: 256003, Elapsed Time: 13331.83 seconds, Entries: 10104
+Iteration: 260003, Elapsed Time: 14430.31 seconds, Entries: 10261

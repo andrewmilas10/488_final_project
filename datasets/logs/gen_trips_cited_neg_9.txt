@@ -1,0 +1,14 @@
+Already have 11736 triples. Starting at idx 553859
+Iteration: 554100, Elapsed Time: 63.72 seconds, Entries: 11740
+Iteration: 554700, Elapsed Time: 665.18 seconds, Entries: 11752
+Iteration: 556500, Elapsed Time: 2278.95 seconds, Entries: 11787
+Iteration: 556800, Elapsed Time: 2446.19 seconds, Entries: 11794
+Iteration: 557400, Elapsed Time: 2676.01 seconds, Entries: 11811
+Iteration: 558900, Elapsed Time: 3544.37 seconds, Entries: 11848
+Iteration: 559500, Elapsed Time: 3966.75 seconds, Entries: 11865
+Iteration: 560100, Elapsed Time: 4421.32 seconds, Entries: 11880
+Iteration: 560400, Elapsed Time: 4560.35 seconds, Entries: 11891
+Iteration: 560700, Elapsed Time: 4633.62 seconds, Entries: 11897
+Iteration: 561900, Elapsed Time: 5322.63 seconds, Entries: 11926
+Iteration: 562200, Elapsed Time: 5519.30 seconds, Entries: 11938
+Iteration: 563400, Elapsed Time: 6313.75 seconds, Entries: 11966

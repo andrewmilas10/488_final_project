@@ -1,17 +1,19 @@
-Already have 9070 triples. Starting at idx 233496
-Iteration: 234007, Elapsed Time: 126.54 seconds, Entries: 9089
-Iteration: 236007, Elapsed Time: 975.79 seconds, Entries: 9151
-Iteration: 237007, Elapsed Time: 1200.23 seconds, Entries: 9189
-Iteration: 240007, Elapsed Time: 1834.37 seconds, Entries: 9294
-Iteration: 243007, Elapsed Time: 2647.47 seconds, Entries: 9411
-Iteration: 244007, Elapsed Time: 2832.67 seconds, Entries: 9447
-Iteration: 245007, Elapsed Time: 2953.72 seconds, Entries: 9483
-Iteration: 247007, Elapsed Time: 3458.66 seconds, Entries: 9568
-Iteration: 248007, Elapsed Time: 3706.65 seconds, Entries: 9602
-Iteration: 250007, Elapsed Time: 4558.88 seconds, Entries: 9682
-Iteration: 251007, Elapsed Time: 5114.31 seconds, Entries: 9718
-Iteration: 253007, Elapsed Time: 5937.59 seconds, Entries: 9800
-Traceback (most recent call last):
-  File "/mnt/raid0/andrewm/cpsc488/gen_trips_non_cited_neg.py", line 78, in <module>
-  File "/mnt/raid0/andrewm/cpsc488/gen_trips_non_cited_neg.py", line 62, in gen_non_cited_neg
-FileNotFoundError: [Errno 2] No such file or directory: 'saved_triplets/non_cited_neg_start_6_stride_10_hard_False.pkl'
+Already have 9831 triples. Starting at idx 253646
+Iteration: 256007, Elapsed Time: 1362.74 seconds, Entries: 9926
+Iteration: 257007, Elapsed Time: 1794.89 seconds, Entries: 9972
+Iteration: 259007, Elapsed Time: 3089.13 seconds, Entries: 10057
+Iteration: 260007, Elapsed Time: 3552.47 seconds, Entries: 10091
+Iteration: 264007, Elapsed Time: 6469.52 seconds, Entries: 10234
+Iteration: 265007, Elapsed Time: 7042.15 seconds, Entries: 10269
+Iteration: 267007, Elapsed Time: 8015.80 seconds, Entries: 10336
+Iteration: 268007, Elapsed Time: 8650.00 seconds, Entries: 10375
+Iteration: 269007, Elapsed Time: 8938.63 seconds, Entries: 10411
+Iteration: 273007, Elapsed Time: 10215.18 seconds, Entries: 10578
+Iteration: 275007, Elapsed Time: 10821.30 seconds, Entries: 10669
+Iteration: 276007, Elapsed Time: 11190.14 seconds, Entries: 10717
+Iteration: 277007, Elapsed Time: 11553.16 seconds, Entries: 10755
+Iteration: 278007, Elapsed Time: 11993.34 seconds, Entries: 10792
+Iteration: 285007, Elapsed Time: 13656.98 seconds, Entries: 11057
+Iteration: 286007, Elapsed Time: 13846.12 seconds, Entries: 11100
+Iteration: 287007, Elapsed Time: 14136.06 seconds, Entries: 11132
+Iteration: 288007, Elapsed Time: 14296.97 seconds, Entries: 11176
