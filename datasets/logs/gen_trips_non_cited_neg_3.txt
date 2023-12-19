@@ -1,9 +1,2 @@
-Already have 6503 triples. Starting at idx 165463
-Iteration: 166004, Elapsed Time: 306.00 seconds, Entries: 6524
-Iteration: 170004, Elapsed Time: 1951.92 seconds, Entries: 6682
-Iteration: 172004, Elapsed Time: 3382.72 seconds, Entries: 6752
-Iteration: 173004, Elapsed Time: 4292.68 seconds, Entries: 6785
-Iteration: 174004, Elapsed Time: 4833.35 seconds, Entries: 6827
-Iteration: 175004, Elapsed Time: 5511.61 seconds, Entries: 6859
-Iteration: 192004, Elapsed Time: 13096.41 seconds, Entries: 7524
-Iteration: 195004, Elapsed Time: 14101.29 seconds, Entries: 7643
+Already have 7692 triples. Starting at idx 196113
+Iteration: 200004, Elapsed Time: 1201.58 seconds, Entries: 7826

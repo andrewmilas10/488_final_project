@@ -1,13 +1,3 @@
-Already have 8781 triples. Starting at idx 224844
-Iteration: 225005, Elapsed Time: 299.71 seconds, Entries: 8787
-Iteration: 228005, Elapsed Time: 1771.20 seconds, Entries: 8894
-Iteration: 229005, Elapsed Time: 2570.45 seconds, Entries: 8930
-Iteration: 233005, Elapsed Time: 5775.26 seconds, Entries: 9097
-Iteration: 239005, Elapsed Time: 9523.25 seconds, Entries: 9351
-Iteration: 241005, Elapsed Time: 10498.11 seconds, Entries: 9441
-Iteration: 242005, Elapsed Time: 10886.10 seconds, Entries: 9472
-Iteration: 243005, Elapsed Time: 11274.65 seconds, Entries: 9516
-Iteration: 246005, Elapsed Time: 12523.52 seconds, Entries: 9627
-Iteration: 248005, Elapsed Time: 13080.98 seconds, Entries: 9705
-Iteration: 250005, Elapsed Time: 13415.51 seconds, Entries: 9787
-Iteration: 253005, Elapsed Time: 14424.75 seconds, Entries: 9895
+Already have 9901 triples. Starting at idx 253164
+Iteration: 256005, Elapsed Time: 1362.09 seconds, Entries: 10026
+Iteration: 257005, Elapsed Time: 1671.09 seconds, Entries: 10062

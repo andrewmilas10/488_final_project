@@ -1,6 +1,2 @@
-Already have 8266 triples. Starting at idx 211305
-Iteration: 213006, Elapsed Time: 773.94 seconds, Entries: 8340
-Iteration: 215006, Elapsed Time: 1712.87 seconds, Entries: 8431
-Iteration: 219006, Elapsed Time: 3978.77 seconds, Entries: 8579
-Iteration: 229006, Elapsed Time: 9992.45 seconds, Entries: 8972
-Iteration: 230006, Elapsed Time: 10547.50 seconds, Entries: 9006
+Already have 9369 triples. Starting at idx 240025
+Iteration: 244006, Elapsed Time: 1589.51 seconds, Entries: 9529

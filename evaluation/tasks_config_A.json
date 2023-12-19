@@ -3,12 +3,12 @@
     "name": "influentials",
     "type": "triplet",
     "dataset": {
-      "path": "cheafdevo56/InfluentialQueries"
+      "path": "cheafdevo56/Influential_CitedNegs_1_Percent"
     },
     "ctrl_token": "[PRX]",
       "sample_size": {
-      "train": 41224,
-      "dev": 4581
+      "train": 45000,
+      "dev": 5000
     }
   }
 ]
