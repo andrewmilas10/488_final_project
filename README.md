@@ -2,7 +2,7 @@
 
 ## Preparing Datasets
 
-In order to generate the various types of triples used for our datasets, simply download dependencies from our requirements.txt file run the start_gen_cited_neg.sh and start_gen_non_cited_neg.sh bash scripts in the datasets directory. Note, an environment variable SEMANTIC_SCHOLAR_API_KEY can be set to reduce rate limits imposed by the Semantic Scholar API, though the scripts should still work without them. 
+In order to generate the various types of triples used for our datasets, simply download dependencies from our datasets/requirements.txt file and run the start_gen_cited_neg.sh and start_gen_non_cited_neg.sh bash scripts in the datasets directory. Note, an environment variable SEMANTIC_SCHOLAR_API_KEY can be set to reduce rate limits imposed by the Semantic Scholar API, though the scripts should still work without them. 
 
 ```bash
 git clone https://github.com/andrewmilas10/488_final_project.git
